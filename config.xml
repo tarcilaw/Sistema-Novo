@@ -110,9 +110,7 @@
 		<platform name="winphone">
 		</platform>
 		 <icon src="icon.png" />
-		<access origin="http://comandandoem-casa.umbler.net" subdomains="false" />
-		<access origin="http://www.comandandoem-casa.umbler.net/home" subdomains="false" />
-		<access origin="www.comandandoem-casa.umbler.net/home" subdomains="false" />
+    		<access origin="*" />
 		<allow-intent href="http://*/*" />
 		<allow-intent href="https://*/*" />
 		<allow-intent href="tel:*" />
