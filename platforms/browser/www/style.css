@@ -1,0 +1,31 @@
+.btn-entrar{
+	margin-top: 100px;
+
+}
+
+#iframe{
+	display: none;
+}
+
+
+.body-erro{
+	background-image: url("imagem_erro.jpg");
+}
+
+.caixa-erro{
+	background-color: red;
+	border-radius: 15px;
+	height: 130px;
+	margin-top: 120%;
+	position: absolute;
+	padding-left: 25px;
+	padding-bottom: 25px;
+	padding-right: 25px;
+	color: white;
+	margin-left: 15%;
+
+}
+
+.imagem-erro{
+	position: absolute;
+}
